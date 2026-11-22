@@ -1,0 +1,6 @@
+*.qcow2
+*.img
+*.pub
+*.yaml
+lab_key
+__pycache__/*
