@@ -1,6 +1,7 @@
 *.qcow2
-*.img
-*.pub
-*.yaml
+seed-*.img
 lab_key
-__pycache__/*
+lab_key.pub
+__pycache__/
+.pytest_cache/
+.venv/
